@@ -1,4 +1,4 @@
-# Petty-Hedge
+# Petty Hedge
 
 **Petty Hedge is a Tower Defense-like Maze Building game.**
 
